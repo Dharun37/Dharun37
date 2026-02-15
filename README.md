@@ -4,9 +4,9 @@
   </a> 
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Animation" src="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dharun37/Dharun37/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dharun37/Dharun37/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Animation" src="https://github.com/Dharun37/Dharun37/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
 </picture>
 
 <br />
@@ -94,7 +94,7 @@
 </p>
 
 <!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanidharansr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharun37&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div> -->
 
 <br />

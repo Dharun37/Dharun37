@@ -33,6 +33,10 @@ jobs:
           test -f dist/docker/github-contribution-grid-snake.svg
           test -f dist/docker/github-contribution-grid-snake-dark.svg
           test -f dist/docker/github-contribution-grid-snake.gif
+      - name: configure git identity
+        run: |
+          git config --global user.email "vdharun11@gmail.com"
+          git config --global user.name "Dharun37"
       - name: push snake animations to the output branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
         with:

@@ -25,3 +25,7 @@ jobs:
         with:
           message: "Generate Snake Animation"
           add: "dist/github-contribution-grid-snake.svg"
+          author_name: Dharun37
+          author_email: vdharun11@gmail.com
+          committer_name: Dharun37
+          committer_email: vdharun11@gmail.com

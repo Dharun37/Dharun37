@@ -19,7 +19,7 @@
 
 ## Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html5,css3,react,tailwindcss" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss" alt="Frontend" />
 </p>
 
 ## Backend and Frameworks
